@@ -1,0 +1,52 @@
+
+
+h5 {
+    color: white;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.card {
+    padding-bottom: 20px;
+}
+
+.card-img-top {
+    margin-left: 25px;
+    margin-top: 40px;
+
+}
+
+.sedan-card {
+    background-color: #e38826;
+}
+
+.suv-card {
+    background-color: #006970;
+}
+
+.luxury-card {
+    background-color: #004241;
+}
+
+.card-text {
+    font-family: Lexend Deca;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 10px;
+    padding-bottom: 100px;
+}
+
+.card-title {
+    font-family: Big Shoulders Display;
+    font-weight: 700;
+    padding: 10px;
+    font-size: xx-large;
+}
+
+.btn {
+    color: hsla(0, 0%, 100%, 0.75);
+    border-radius: 50px;
+    margin-left: 11px;
+}
